@@ -1,4 +1,4 @@
-package coreprogramming.string.level_2;/*
+package coreprogramming.javastrings.level_2;/*
 Question:
 Display character type – Vowel, Consonant, or Not a Letter.
 */

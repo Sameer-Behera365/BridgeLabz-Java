@@ -1,4 +1,4 @@
-package coreprogramming.string.level_3;/*
+package coreprogramming.javastrings.level_3;/*
 Question:
 Find BMI of 10 team members and display Height, Weight, BMI and Status.
 

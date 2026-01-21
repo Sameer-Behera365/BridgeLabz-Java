@@ -1,4 +1,4 @@
-package coreprogramming.string.level_2;/*
+package coreprogramming.javastrings.level_2;/*
 Question:
 Split text into words and return word and length in 2D array.
 */

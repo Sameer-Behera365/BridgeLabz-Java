@@ -1,4 +1,4 @@
-package coreprogramming.string.level_3;/*
+package coreprogramming.javastrings.level_3;/*
 Question:
 Find frequency of characters using ASCII array.
 */

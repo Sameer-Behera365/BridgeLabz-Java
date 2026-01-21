@@ -1,4 +1,4 @@
-package coreprogramming.string.level_1;/*
+package coreprogramming.javastrings.level_1;/*
 Question:
 Write a program to demonstrate NullPointerException.
 

@@ -1,4 +1,4 @@
-package coreprogramming.string.level_3;/*
+package coreprogramming.javastrings.level_3;/*
 Question:
 Display calendar for given month and year.
 */

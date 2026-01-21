@@ -1,4 +1,4 @@
-package coreprogramming.string.level_2;/*
+package coreprogramming.javastrings.level_2;/*
 Question:
 Count vowels and consonants in a string.
 */

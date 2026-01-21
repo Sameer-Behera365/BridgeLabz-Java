@@ -1,4 +1,4 @@
-package coreprogramming.string.level_2;/*
+package coreprogramming.javastrings.level_2;/*
 Question:
 Check voting eligibility of 10 students.
 */

@@ -1,4 +1,4 @@
-package coreprogramming.string.level_3;/*
+package coreprogramming.javastrings.level_3;/*
 Question:
 Find unique characters in a string using charAt().
 */

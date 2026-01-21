@@ -1,4 +1,4 @@
-package coreprogramming.string.level_1;/*
+package coreprogramming.javastrings.level_1;/*
 Question:
 Write a program to create a substring using charAt() method and
 compare it with String built-in substring() method.

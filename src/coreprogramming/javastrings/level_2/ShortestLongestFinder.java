@@ -1,4 +1,4 @@
-package coreprogramming.string.level_2;/*
+package coreprogramming.javastrings.level_2;/*
 Question:
 Find shortest and longest word from text.
 */

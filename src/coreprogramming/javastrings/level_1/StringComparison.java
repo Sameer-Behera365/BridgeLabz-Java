@@ -1,4 +1,4 @@
-package coreprogramming.string.level_1;/*
+package coreprogramming.javastrings.level_1;/*
 Question:
 Write a program to compare two strings using the charAt() method and
 check the result with the built-in String equals() method.
