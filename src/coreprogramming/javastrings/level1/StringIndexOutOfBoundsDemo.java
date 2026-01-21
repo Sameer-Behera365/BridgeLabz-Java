@@ -1,33 +1,32 @@
-package coreprogramming.javastrings.level_1;/*
+package coreprogramming.javastrings.level1;/*
 Question:
-Write a program to demonstrate NumberFormatException.
+Write a program to demonstrate StringIndexOutOfBoundsException.
 
 Hint:
-- Take String input
-- Use Integer.parseInt()
+- Access index beyond string length
 - Handle exception using try-catch
 */
 
 import java.util.Scanner;
 
-class NumberFormatDemo {
+class StringIndexOutOfBoundsDemo {
 
     public static void generateException(String text) {
-        Integer.parseInt(text);
+        text.charAt(text.length()); // Invalid index
     }
 
     public static void handleException(String text) {
         try {
-            Integer.parseInt(text);
-        } catch (NumberFormatException e) {
-            System.out.println("NumberFormatException handled");
+            text.charAt(text.length());
+        } catch (StringIndexOutOfBoundsException e) {
+            System.out.println("StringIndexOutOfBoundsException handled");
         }
     }
 
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a string: ");
+        System.out.print("Enter text: ");
         String text = sc.next();
 
         // generateException(text);

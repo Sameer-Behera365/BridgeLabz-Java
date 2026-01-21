@@ -1,4 +1,4 @@
-package coreprogramming.javastrings.level_1;/*
+package coreprogramming.javastrings.level1;/*
 Question:
 Write a program to demonstrate IllegalArgumentException using substring().
 

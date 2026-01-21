@@ -1,4 +1,4 @@
-package coreprogramming.javastrings.level_1;/*
+package coreprogramming.javastrings.level1;/*
 Question:
 Convert complete text to lowercase using charAt() and compare with
 built-in toLowerCase() method.
