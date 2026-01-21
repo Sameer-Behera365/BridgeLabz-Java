@@ -1,4 +1,4 @@
-package coreprogramming.arrays.level_1;/*
+package coreprogramming.javaarrays.level_1;/*
 Question:
 Find factors of a number and store them dynamically in an array.
 */

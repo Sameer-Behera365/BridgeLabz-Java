@@ -1,4 +1,4 @@
-package coreprogramming.arrays.level_2;/*
+package coreprogramming.javaarrays.level_2;/*
 Question:
 Rework previous program by dynamically increasing array size.
 */

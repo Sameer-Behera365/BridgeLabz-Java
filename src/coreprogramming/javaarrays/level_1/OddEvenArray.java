@@ -1,4 +1,4 @@
-package coreprogramming.arrays.level_1;/*
+package coreprogramming.javaarrays.level_1;/*
 Question:
 Save odd and even numbers into separate arrays.
 */

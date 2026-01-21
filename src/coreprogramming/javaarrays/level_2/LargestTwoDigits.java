@@ -1,4 +1,4 @@
-package coreprogramming.arrays.level_2;/*
+package coreprogramming.javaarrays.level_2;/*
 Question:
 Store digits of a number in an array and find largest and second largest digit.
 */

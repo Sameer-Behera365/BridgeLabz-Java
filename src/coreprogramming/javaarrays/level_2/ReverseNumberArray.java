@@ -1,4 +1,4 @@
-package coreprogramming.arrays.level_2;/*
+package coreprogramming.javaarrays.level_2;/*
 Question:
 Reverse a number using array.
 */

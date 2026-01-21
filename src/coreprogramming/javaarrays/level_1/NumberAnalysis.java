@@ -1,4 +1,4 @@
-package coreprogramming.arrays.level_1;/*
+package coreprogramming.javaarrays.level_1;/*
 Question:
 Take 5 numbers and check positive, negative or zero.
 For positive numbers check even or odd.
