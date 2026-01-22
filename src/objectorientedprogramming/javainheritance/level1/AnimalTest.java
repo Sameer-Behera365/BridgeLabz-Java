@@ -1,4 +1,4 @@
-package Object_Oriented_Programming.JavaInheritance.level1;
+package objectorientedprogramming.javainheritance.level1;
 
 public class AnimalTest {
     public static void main(String[] args) {
