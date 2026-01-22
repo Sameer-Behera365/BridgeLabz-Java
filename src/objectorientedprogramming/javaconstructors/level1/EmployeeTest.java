@@ -1,4 +1,4 @@
-package Object_Oriented_Programming.JavaConstructors.level1;
+package objectorientedprogramming.javaconstructors.level1;
 
 public class EmployeeTest {
     public static void main(String[] args) {
