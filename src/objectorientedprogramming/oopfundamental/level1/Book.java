@@ -1,4 +1,4 @@
-package Object_Oriented_Programming.OOPFundamental.level1;
+package objectorientedprogramming.oopfundamental.level1;
 
 public class Book {
     private String title;

@@ -1,4 +1,5 @@
-package Object_Oriented_Programming.OOPFundamental.level2;
+package objectorientedprogramming.oopfundamental.level2;
+
 
 public class BankAccount {
     private String accountHolder;
