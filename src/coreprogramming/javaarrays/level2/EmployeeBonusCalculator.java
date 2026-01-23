@@ -1,4 +1,4 @@
-package coreprogramming.javaarrays.level_2;/*
+package coreprogramming.javaarrays.level2;/*
 Question:
 Create a program to find the bonus of 10 employees based on years of service
 and calculate total bonus, total old salary, and total new salary.

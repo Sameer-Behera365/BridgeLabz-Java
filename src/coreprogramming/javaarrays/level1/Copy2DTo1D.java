@@ -1,4 +1,4 @@
-package coreprogramming.javaarrays.level_1;/*
+package coreprogramming.javaarrays.level1;/*
 Question:
 Copy a 2D array into a 1D array.
 */

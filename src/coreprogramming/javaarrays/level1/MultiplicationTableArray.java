@@ -1,4 +1,4 @@
-package coreprogramming.javaarrays.level_1;/*
+package coreprogramming.javaarrays.level1;/*
 Question:
 Create a program to print multiplication table of a number.
 

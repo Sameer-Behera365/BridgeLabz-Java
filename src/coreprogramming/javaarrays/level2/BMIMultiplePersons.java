@@ -1,4 +1,4 @@
-package coreprogramming.javaarrays.level_2;/*
+package coreprogramming.javaarrays.level2;/*
 Question:
 Find BMI of multiple persons using arrays.
 */

@@ -1,4 +1,4 @@
-package coreprogramming.javaarrays.level_2;/*
+package coreprogramming.javaarrays.level2;/*
 Question:
 Rewrite student marks program using 2D array.
 */

@@ -1,4 +1,4 @@
-package coreprogramming.javaarrays.level_2;/*
+package coreprogramming.javaarrays.level2;/*
 Question:
 Find the youngest and tallest among Amar, Akbar, and Anthony.
 */

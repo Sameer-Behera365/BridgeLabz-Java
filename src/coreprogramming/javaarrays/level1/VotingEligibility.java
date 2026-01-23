@@ -1,4 +1,4 @@
-package coreprogramming.javaarrays.level_1;/*
+package coreprogramming.javaarrays.level1;/*
 Question:
 Write a program to take user input for the age of all 10 students in a class
 and check whether the student can vote.

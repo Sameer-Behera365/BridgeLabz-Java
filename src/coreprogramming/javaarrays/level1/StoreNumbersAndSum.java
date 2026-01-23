@@ -1,4 +1,4 @@
-package coreprogramming.javaarrays.level_1;/*
+package coreprogramming.javaarrays.level1;/*
 Question:
 Store numbers until user enters 0 or negative or array is full.
 Display numbers and sum.
