@@ -1,4 +1,4 @@
-package objectorientedprogramming.javapolymorphismencapsulation.level1;
+package objectorientedprogramming.javapolymorphismencapsulation;
 
 abstract class Employee {
     private int employeeId;
