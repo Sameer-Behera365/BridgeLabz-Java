@@ -1,4 +1,4 @@
-package coreprogramming.javastrings.level_3;/*
+package coreprogramming.javastrings.level3;/*
 Question:
 Check if two strings are anagrams.
 */

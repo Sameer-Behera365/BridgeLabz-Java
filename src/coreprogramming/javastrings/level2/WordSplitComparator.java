@@ -1,4 +1,4 @@
-package coreprogramming.javastrings.level_2;/*
+package coreprogramming.javastrings.level2;/*
 Question:
 Split text into words using charAt() and compare
 with built-in split() method.

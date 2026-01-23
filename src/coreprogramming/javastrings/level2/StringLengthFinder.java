@@ -1,4 +1,4 @@
-package coreprogramming.javastrings.level_2;/*
+package coreprogramming.javastrings.level2;/*
 Question:
 Write a program to find and return the length of a string
 without using the built-in length() method.

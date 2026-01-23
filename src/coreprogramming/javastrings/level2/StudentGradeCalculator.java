@@ -1,4 +1,4 @@
-package coreprogramming.javastrings.level_2;/*
+package coreprogramming.javastrings.level2;/*
 Question:
 Generate PCM marks, calculate percentage and grade.
 */
