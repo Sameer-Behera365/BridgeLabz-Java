@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_2;/*
+package coreprogramming.javamethods.level2;/*
 Question:
 Extend or Create a UnitConvertor utility class similar to the one shown in the notes
 Please define static methods for all the UnitConvertor class methods.

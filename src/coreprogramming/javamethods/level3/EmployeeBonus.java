@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_3;/*
+package coreprogramming.javamethods.level3;/*
 Question:
 Create a program to find bonus of 10 employees based on years of service.
 

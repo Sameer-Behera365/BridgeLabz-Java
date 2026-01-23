@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_1;/*
+package coreprogramming.javamethods.level1;/*
 Question:
 Write a program SpringSeason that checks whether a given month and day
 falls under Spring Season.

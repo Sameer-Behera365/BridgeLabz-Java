@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_2;/*
+package coreprogramming.javamethods.level2;/*
 Question:
 Write a program to find the sum of n natural numbers using recursive method and
 compare the result with the formula n*(n+1)/2.

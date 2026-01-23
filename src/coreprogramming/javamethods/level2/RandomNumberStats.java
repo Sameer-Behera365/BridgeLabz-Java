@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_2;/*
+package coreprogramming.javamethods.level2;/*
 Question:
 Write a program that generates five 4 digit random values and then finds
 their average, minimum and maximum.

@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_3;/*
+package coreprogramming.javamethods.level3;/*
 Question:
 Perform matrix operations: addition, subtraction, multiplication and transpose.
 */

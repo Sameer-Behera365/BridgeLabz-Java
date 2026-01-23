@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_3;/*
+package coreprogramming.javamethods.level3;/*
 Question:
 Check Prime, Neon, Spy, Automorphic, Buzz numbers.
 */

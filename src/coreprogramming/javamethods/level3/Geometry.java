@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_3;/*
+package coreprogramming.javamethods.level3;/*
 Question:
 Write a program to find Euclidean distance between two points
 and also find the equation of the line passing through them.

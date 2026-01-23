@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_2;/*
+package coreprogramming.javamethods.level2;/*
 Question:
 Write a program Quadratic to find the roots of the equation ax^2 + bx + c.
 

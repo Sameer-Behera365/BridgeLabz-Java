@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_3;/*
+package coreprogramming.javamethods.level3;/*
 Question:
 Extend or Create a NumberChecker utility class.
 

@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_1;/*
+package coreprogramming.javamethods.level1;/*
 Question:
 An athlete runs in a triangular park with sides provided as input by the user.
 If the athlete wants to complete a 5 km run, how many rounds are required?

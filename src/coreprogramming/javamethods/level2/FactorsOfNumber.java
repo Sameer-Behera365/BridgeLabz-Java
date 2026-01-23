@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_2;/*
+package coreprogramming.javamethods.level2;/*
 Question:
 Create a program to find the factors of a number taken as user input, store the factors
 in an array, and display the factors. Also find the sum, sum of square of factors and

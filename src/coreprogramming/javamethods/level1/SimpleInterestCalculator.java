@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_1;/*
+package coreprogramming.javamethods.level1;/*
 Question:
 Write a program to input the Principal, Rate, and Time values and calculate Simple Interest.
 

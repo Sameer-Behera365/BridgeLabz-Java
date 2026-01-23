@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_2;/*
+package coreprogramming.javamethods.level2;/*
 Question:
 Create a program to find the youngest and tallest among Amar, Akbar and Anthony.
 

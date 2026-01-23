@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_1;/*
+package coreprogramming.javamethods.level1;/*
 Question:
 Create a program to find the maximum number of handshakes among N number of students.
 

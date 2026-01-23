@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_3;/*
+package coreprogramming.javamethods.level3;/*
 Question:
 Create a program to find the shortest, tallest, and mean height of players present in a football team.
 

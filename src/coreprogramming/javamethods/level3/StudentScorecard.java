@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_3;/*
+package coreprogramming.javamethods.level3;/*
 Question:
 Take input marks of students in Physics, Chemistry, Maths.
 Calculate total, average and percentage.

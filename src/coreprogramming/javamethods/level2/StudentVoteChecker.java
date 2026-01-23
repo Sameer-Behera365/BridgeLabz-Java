@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_2;/*
+package coreprogramming.javamethods.level2;/*
 Question:
 Write a program to take user input for the age of all 10 students and
 check whether each student can vote.

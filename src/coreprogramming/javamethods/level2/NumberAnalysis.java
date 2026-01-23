@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_2;/*
+package coreprogramming.javamethods.level2;/*
 Question:
 Write a program to take user input for 5 numbers and check whether a number is
 positive or negative. Further for positive numbers check if the number is even or odd.

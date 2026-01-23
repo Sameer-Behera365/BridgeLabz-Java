@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_2;/*
+package coreprogramming.javamethods.level2;/*
 Question:
 An organization took up the exercise to find the Body Mass Index (BMI)
 of all the persons in the team of 10 members.

@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_3;/*
+package coreprogramming.javamethods.level3;/*
 Question:
 Generate 6-digit OTP and ensure uniqueness across 10 OTPs.
 */

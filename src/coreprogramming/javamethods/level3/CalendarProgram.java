@@ -1,4 +1,4 @@
-package coreprogramming.javamethods.level_3;/*
+package coreprogramming.javamethods.level3;/*
 Question:
 Create a program to display a calendar for a given month and year.
 The program should take the month and year as input from the user and display the calendar.
