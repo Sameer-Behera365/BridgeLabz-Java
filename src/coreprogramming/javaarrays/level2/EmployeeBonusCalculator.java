@@ -1,12 +1,4 @@
-package coreprogramming.javaarrays.level2;/*
-Question:
-Create a program to find the bonus of 10 employees based on years of service
-and calculate total bonus, total old salary, and total new salary.
-
-Hint:
-- Bonus = 5% if years > 5 else 2%
-- Validate salary and years of service
-*/
+package coreprogramming.javaarrays.level2;
 
 import java.util.Scanner;
 
@@ -31,13 +23,15 @@ class EmployeeBonusCalculator {
         // Input salary and years of service
         for (int i = 0; i < employeeCount; i++) {
 
-            System.out.println("Enter salary and years of service for employee " + (i + 1));
+            System.out.println("Enter salary for employee " + (i + 1) + ": ");
             salary[i] = input.nextDouble();
+
+            System.out.println("Enter years of service for employee " + (i + 1) + ": ");
             yearsOfService[i] = input.nextDouble();
 
             // Validation
             if (salary[i] <= 0 || yearsOfService[i] < 0) {
-                System.err.println("Invalid input. Enter again.");
+                System.err.println("Invalid input. Please enter again.");
                 i--;
                 continue;
             }
@@ -48,3 +42,30 @@ class EmployeeBonusCalculator {
 
             if (yearsOfService[i] > 5) {
                 bonus[i] = salary[i] * 0.05;
+            } else {
+                bonus[i] = salary[i] * 0.02;
+            }
+
+            newSalary[i] = salary[i] + bonus[i];
+
+            totalBonus += bonus[i];
+            totalOldSalary += salary[i];
+            totalNewSalary += newSalary[i];
+        }
+
+        // Display results
+        System.out.println("\nEmployee Details:");
+        for (int i = 0; i < employeeCount; i++) {
+            System.out.println("Employee " + (i + 1) +
+                    " | Salary: " + salary[i] +
+                    " | Bonus: " + bonus[i] +
+                    " | New Salary: " + newSalary[i]);
+        }
+
+        System.out.println("\nTotal Old Salary: " + totalOldSalary);
+        System.out.println("Total Bonus: " + totalBonus);
+        System.out.println("Total New Salary: " + totalNewSalary);
+
+        input.close();
+    }
+}
