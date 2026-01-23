@@ -1,4 +1,4 @@
-package objectorientedprogramming.javainheritance.level1;
+package objectorientedprogramming.javainheritance;
 
 public class Bird extends Animal {
     @Override
