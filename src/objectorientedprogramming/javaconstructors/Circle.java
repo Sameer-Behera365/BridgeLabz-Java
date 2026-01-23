@@ -1,4 +1,4 @@
-package objectorientedprogramming.javaconstructors.level1;
+package objectorientedprogramming.javaconstructors;
 
 public class Circle {
     double radius;
