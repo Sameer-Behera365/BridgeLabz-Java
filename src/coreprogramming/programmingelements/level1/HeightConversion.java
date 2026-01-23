@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_1;/*
+package coreprogramming.programmingelements.level1;/*
 Write a program that takes your height in centimeters and converts it into feet and inches
 Hint => 1 foot = 12 inches and 1 inch = 2.54 cm
 I/P => height

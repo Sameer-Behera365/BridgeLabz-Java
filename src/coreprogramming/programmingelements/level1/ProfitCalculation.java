@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_1;/*
+package coreprogramming.programmingelements.level1;/*
 Create a program to calculate the profit and loss in number and percentage based on the cost price of INR 129 and the selling price of INR 191. 
 Hint => 
 Use a single print statement to display multiline text and variables.

@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_2;/*
+package coreprogramming.programmingelements.level2;/*
 Question:
 Write an IntOperation program by taking a, b, and c as input values
 and print the following:

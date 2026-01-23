@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_2;/*
+package coreprogramming.programmingelements.level2;/*
 Question:
 Write a program to take 2 numbers and print their quotient and remainder.
 

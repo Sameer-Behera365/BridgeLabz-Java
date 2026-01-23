@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_2;/*
+package coreprogramming.programmingelements.level2;/*
 Question:
 Write a program to find the distance in yards and miles
 for the distance provided by the user in feet.

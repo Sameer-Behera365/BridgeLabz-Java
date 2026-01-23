@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_2;/*
+package coreprogramming.programmingelements.level2;/*
 Question:
 Write a program to input the unit price of an item and the quantity
 to be bought. Then, calculate the total price.

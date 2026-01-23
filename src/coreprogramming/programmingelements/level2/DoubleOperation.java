@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_2;/*
+package coreprogramming.programmingelements.level2;/*
 Question:
 Write the DoubleOpt program by taking double values and performing
 the same operations as IntOperation.

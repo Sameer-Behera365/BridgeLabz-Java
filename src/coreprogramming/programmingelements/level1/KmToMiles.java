@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_1;/*
+package coreprogramming.programmingelements.level1;/*
 Create a program to convert the distance of 10.8 kilometers to miles.
 Hint: 1 km = 1.6 miles
 I/P => NONE

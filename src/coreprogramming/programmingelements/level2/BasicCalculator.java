@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_2;/*
+package coreprogramming.programmingelements.level2;/*
 Question:
 Write a program to create a basic calculator for addition, subtraction,
 multiplication, and division. The program should ask for two numbers

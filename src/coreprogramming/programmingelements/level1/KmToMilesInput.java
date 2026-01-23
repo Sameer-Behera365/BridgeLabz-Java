@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_1;/*
+package coreprogramming.programmingelements.level1;/*
 Create a program to convert distance in kilometers to miles.
 Hint => 
 Create a variable km and assign type as double as in double km;

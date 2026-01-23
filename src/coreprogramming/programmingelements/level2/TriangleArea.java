@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_2;/*
+package coreprogramming.programmingelements.level2;/*
 Question:
 Write a program that takes the base and height in cm to find the area
 of a triangle in square inches and square centimeters.
@@ -39,3 +39,4 @@ class TriangleArea {
         input.close();
     }
 }
+

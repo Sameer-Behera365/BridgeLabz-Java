@@ -1,4 +1,4 @@
-package coreprogramming.programmingelements.level_1;/*
+package coreprogramming.programmingelements.level1;/*
 Write a new program similar to the program # 6 but take user input for Student Fee and University Discount
 Hint => 
 Create a variable named fee and take user input for fee.
