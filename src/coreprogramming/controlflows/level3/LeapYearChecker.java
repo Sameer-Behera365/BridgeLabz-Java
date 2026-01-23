@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_3;/*
+package coreprogramming.controlflows.level3;/*
 Question:
 Write a LeapYear program that takes a year as input and outputs whether the year is a Leap Year or not.
 

@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_2;/*
+package coreprogramming.controlflows.level2;/*
 Question:
 Create a program to print odd and even numbers between 1 to the number entered by the user.
 

@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_1;/*
+package coreprogramming.controlflows.level1;/*
 Question:
 Write a program to check if a number is divisible by 5.
 

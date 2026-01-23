@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_1;/*
+package coreprogramming.controlflows.level1;/*
 Question:
 Rewrite program 14 using for loop.
 */

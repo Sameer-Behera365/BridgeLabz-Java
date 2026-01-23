@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_3;/*
+package coreprogramming.controlflows.level3;/*
 Question:
 Write a program to create a calculator using switch-case.
 

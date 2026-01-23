@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_1;/*
+package coreprogramming.controlflows.level1;/*
 Question:
 Write a program to check if the first number is the smallest of three numbers.
 

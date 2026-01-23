@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_3;/*
+package coreprogramming.controlflows.level3;/*
 Question:
 Rewrite Leap Year program using a single if condition with logical operators.
 

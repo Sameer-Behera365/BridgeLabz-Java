@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_1;/*
+package coreprogramming.controlflows.level1;/*
 Question:
 Find sum of n natural numbers using while loop and formula.
 */

@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_2;/*
+package coreprogramming.controlflows.level2;/*
 Question:
 Rewrite the FizzBuzz program using while loop.
 

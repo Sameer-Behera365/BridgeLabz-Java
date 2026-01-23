@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_3;/*
+package coreprogramming.controlflows.level3;/*
 Question:
 Write a program DayOfWeek that prints the day of the week for a given date.
 

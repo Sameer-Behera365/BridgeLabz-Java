@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_1;/*
+package coreprogramming.controlflows.level1;/*
 Question:
 Write a program SpringSeason that checks if a given month and day
 fall under Spring Season.

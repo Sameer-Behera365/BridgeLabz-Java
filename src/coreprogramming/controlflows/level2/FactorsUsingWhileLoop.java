@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_2;/*
+package coreprogramming.controlflows.level2;/*
 Question:
 Rewrite factors program using while loop.
 

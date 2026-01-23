@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_2;/*
+package coreprogramming.controlflows.level2;/*
 Question:
 Rewrite the program to print the greatest factor of a number beside itself using a while loop.
 

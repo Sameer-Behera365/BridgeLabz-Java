@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_2;/*
+package coreprogramming.controlflows.level2;/*
 Question:
 Create a program to find the multiplication table of a number entered by the user from 6 to 9.
 

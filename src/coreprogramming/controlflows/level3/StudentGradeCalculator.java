@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_3;/*
+package coreprogramming.controlflows.level3;/*
 Question:
 Write a program to input marks in Physics, Chemistry and Maths.
 Compute percentage and calculate grade.

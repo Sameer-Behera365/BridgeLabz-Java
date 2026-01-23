@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_2;/*
+package coreprogramming.controlflows.level2;/*
 Question:
 Create a program to find the youngest and tallest friend among Amar, Akbar, and Anthony.
 

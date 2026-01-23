@@ -1,4 +1,4 @@
-package coreprogramming.controlflows.level_2;/*
+package coreprogramming.controlflows.level2;/*
 Question:
 Rewrite the program to find all the multiples of a number below 100 using while loop.
 
