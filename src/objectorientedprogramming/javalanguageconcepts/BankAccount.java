@@ -1,4 +1,4 @@
-package objectorientedprogramming.javalanguageconcepts.level1;
+package objectorientedprogramming.javalanguageconcepts;
 
 public class BankAccount {
 
