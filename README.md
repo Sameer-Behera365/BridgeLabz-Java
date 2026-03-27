@@ -1,61 +1,96 @@
-# BridgeLabz-Training
+# Daily Progress Log – BridgeLabz Training
 
-This repository tracks my daily learning, hands-on practice, and submissions during the BridgeLabz Java Training Program.
----
+## BridgeLabz Training
 
-• **08-Dec-2025 (Monday):**  
-Set up the complete development environment by installing VS Code, Visual Studio, IntelliJ IDEA, Eclipse IDE, and Git, and verified configurations.
+- **08-Dec-2025 (Monday):** Installed and set up Notepad++, Eclipse, and JDK.
+- **09-Dec-2025 (Tuesday):** Studied basics in Java.
+- **10-Dec-2025 (Wednesday):** Started solving basic programs in Java.
+- **11-Dec-2025 (Thursday):** Learnt about control statements in Java.
+- **12-Dec-2025 (Friday):** Learnt about methods in java.
+- **13-Dec-2025 (Saturday):** Started practicing programming problems in Java.
+- **15-Dec-2025 (Monday):** Completed with practice problems on Java programming elements.
+- **16-Dec-2025 (Tuesday):** Completed with practice problems on Java control flow.
+- **17-Dec-2025 (Wednesday):** Completed with practice problems on Java arrays.
+- **18-Dec-2025 (Thursday):** Completed with practice problems on Java methods.
+- **19-Dec-2025 (Friday):** Completed with practice problems on Java strings.
+- **20-Dec-2025 (Saturday):** Completed with practice problems on Java built-in commands.
+- **22-Dec-2025 (Monday):** Completed with practice problems on Java strings extras.
+- **23-Dec-2025 (Tuesday):** Completed with practice problems on Java basic OOPS.
+- **08-Jan-2026 (Thursday):** Learnt about git flow commands.
+- **09-Jan-2026 (Friday):** Made changes to GitHub repo using git flow commands.
+- **10-Jan-2026 (Saturday):** Completed with practice problems on Java class structure.
+- **12-Jan-2026 (Monday):** Completed with practice problems on Java inheritance.
+- **13-Jan-2026 (Tuesday):** Completed with practice problems on Java encapsulation.
+- **14-Jan-2026 (Wednesday):** Started with data structures in Java and problems on linked lists.
+- **15-Jan-2026 (Thursday):** Learnt data structures in Java and problems on linked-list.
+- **16-Jan-2026 (Friday):** Worked on corrections provided for GitHub repo.
+- **17-Jan-2026 (Saturday):** Started working on day 1 DSA practice problems.
+- **19-Jan-2026 (Monday):** Started working on day 1 DSA remaining practice problems.
+- **20-Jan-2026 (Tuesday):** Attended review for Java on OOPS concepts.
+- **21-Jan-2026 (Wednesday):** Completed week 3 day 1 to day 3 practice problems.
+- **22-Jan-2026 (Thursday):** Completed week 3 day 4 to day 6 practice problems.
+- **23-Jan-2026 (Friday):** Completed creating and pushing coding files to the new repo OOPSBannerApp.
+- **24-Jan-2026 (Saturday):** Added single and multiline commands to the code in OOPSBannerApp.
+- **27-Jan-2026 (Tuesday):** Completed week 4 day 1 coding problems.
+- **28-Jan-2026 (Wednesday):** Completed week 4 day 2 coding problems.
+- **29-Jan-2026 (Thursday):** Completed Console-Based Assignment Posted: Factory Robot Hazard Analyzer.
+- **30-Jan-2026 (Friday):** Attended review for data structure and algorithms
+- **31-Jan-2026 (Saturday):** Completed and uploaded week 4 day 3 practice problems to GitHub.
+- **02-Feb-2026 (Monday):** Completed and uploaded week 4 day 4 practice problems to GitHub.
+- **03-Feb-2026 (Tuesday):** Completed git project on oceanfleetapp.
+- **04-Feb-2026 (Wednesday):** Completed and uploaded week 4 day 5 practice problems to GitHub.
+- **05-Feb-2026 (Thursday):** Completed and uploaded week 4 day 6 practice problems to GitHub.
+- **06-Feb-2026 (Friday):** Completed week 5 day 1 practice problems.
+- **07-Feb-2026 (Saturday):** Attended power skills sesson.
+- **09-Feb-2026 (Monday):** Completed week 5 day 2 practice problems.
+- **10-Feb-2026 (Tuesday):** Attended weekly review on Java generics and collections.
+- **11-Feb-2026 (Wednesday):** Completed OceanFleatApp.
+- **12-Feb-2026 (Thursday):** Took sick-leave.
+- **13-Feb-2026 (Friday):** Completed week 5 practice problems and uploaded to GitHub.
+- **14-Feb-2026 (Saturday):** Attended power-skills training, revised basic grammar and professional email writing.
+- **16-Feb-2026 (Monday):** Completed problem on trees and graphs and uploaded coding files into GitHub.
+- **17-Feb-2026 (Tuesday):** Attended review on java feature 8.
+- **18-Feb-2026 (Wednesday):** Worked on hackerrank problems.
+- **19-Feb-2026 (Thursday):** Worked on hackerrank problems.
+- **20-Feb-2026 (Friday):** Completed problems on annotation and design pattern and uploaded the code to GitHub.
+- **21-Feb-2026 (Saturday):** Attended power skills session, gave a 3 minute speach on curiosity.
+- **23-Feb-2026 (Monday):** Completed code for Quantity Measurement App.
+- **24-Feb-2026 (Tuesday):** Installed and set up of MySQL server.
+- **25-Feb-2026 (Wednesday):** Added work to checklist and completed week 6 day 2 and day 3 SQL queries.
+- **26-Feb-2026 (Thursday):** Added work to checklist and completed week 6 day 4 and day 5 SQL queries.
+- **27-Feb-2026 (Friday):** Started working on quantity measurement app.
+- **28-Feb-2026 (Saturday):** Attended power-skills training, revised presentation fundamentals and communication rules.
+- **02-Mar-2026 (Monday):** Completed UC1-UC4 and updated it to a new github repo named "Quantity-Measurement-App".
+- **03-Mar-2026 (Tuesday):** Completed UC5-UC6 and updated it to a new github repo named "Quantity-Measurement-App".
+- **04-Mar-2026 (Wednesday):** Completed UC7-UC10 and updated it to a new github repo named "Quantity-Measurement-App".
+- **05-Mar-2026 (Thursday):** Completed UC111-UC12 and updated it to a new github repo named "Quantity-Measurement-App".
+- **06-Mar-2026 (Friday):** Completed UC13-UC14 and updated it to a new github repo named "Quantity-Measurement-App".
+- **07-Mar-2026 (Saturday):** Delivered a professional presentation on "adaptive learning" during a comprehensive power-skills training program.
+- **09-Mar-2026 (Monday):** Started learning springboot and tomcat servelets.
+- **10-Mar-2026 (Tuesday):** Completed assignment on Tomcat and pushed the code to a new repo in GitHub named "TomcatServlet".
+- **11-Mar-2026 (Wednesday):** Completed assignment on Spring and pushed the code to a new repo in GitHub named "SpringBootHelloApp".
+- **12-Mar-2026 (Thursday):** Completed assignment on Spring REST API and pushed the code to a new repo in GitHub named "SpringBootHelloApp".
+- **13-Mar-2026 (Friday):** Completed assignment on Spring framework and pushed the code to a new repo in GitHub named "SpringBootHelloApp".
+- **14-Mar-2026 (Saturday):** Delivered a professional presentation on "Creative thinking" during a comprehensive power-skills training program.
+- **16-Mar-2026 (Monday):** Attended review for springboot applications.
+- **17-Mar-2026 (Tuesday):** Prepared for M1 mock exam.
+- **18-Mar-2026 (Wednesday):** Attended M1 mock exam and noted the reviews provided by mentors for improvement.
+- **19-Mar-2026 (Thursday):** Started working on EmployeePayRollApp and pushed UC1-UC3 code to a new repo in github named "Employee-Payroll-SpringBoot".
+- **20-Mar-2026 (Friday):** Started working on EmployeePayRollApp and pushed UC4-UC6 code to a new repo in github named "Employee-Payroll-SpringBoot".
+- **21-Mar-2026 (Saturday):** Started working on EmployeePayRollApp and pushed UC7-UC9 code to a new repo in github named "Employee-Payroll-SpringBoot".
+- **23-Mar-2026 (Monday):** Prepared for main M1 exam.
+- **24-Mar-2026 (Tuesday):** Attended M1 exam.
+- **25-Mar-2026 (Wednesday):** Started working on AddressBookApp and pushed UC1-UC3 code to a new repo in GitHub named "AddressBook-SpringBoot".
+- **26-Mar-2026 (Thursday):** Started working on AddressBookApp and pushed UC4-UC8 code to a new repo in GitHub named "AddressBook-SpringBoot".
+- **27-Mar-2026 (Friday):** Started working on AddressBookApp and pushed UC9-UC12 code to a new repo in GitHub named "AddressBook-SpringBoot".
 
-• **09-Dec-2025 (Tuesday):**  
-Learned Java fundamentals including features of Java, JDK, JVM, JRE, execution flow, data types, variables, and basic syntax.
 
-• **10-Dec-2025 (Wednesday):**  
-Practiced basic Java programs, understood program structure, and used Git commands (init, add, commit, push) to upload programs to GitHub.
 
-• **11-Dec-2025 (Thursday):**  
-Worked on practice problems covering Strings, basic string operations, Arrays, and input/output programs using terminal commands.
 
-• **12-Dec-2025 (Friday):**  
-Focused on array concepts including one-dimensional arrays, initialization, traversal, memory allocation, and basic problem solving.
 
-• **13-Dec-2025 (Saturday):**  
-Practiced Java Methods including defining methods, calling methods, passing parameters, return types, and basic method-based programs.
 
-• **15-Dec-2025 (Monday):**  
-Solved Programming Elements Level 1 and Level 2 problems using user-defined input, command-line input, and real-world scenarios.
 
-• **16-Dec-2025 (Tuesday):**  
-Practiced Control Flow concepts including conditional statements, loops (for, while, do-while), switch-case, and Level 1 to Level 3 problems.
 
-• **17-Dec-2025 (Wednesday):**  
-Practiced Java Arrays with Level 1 and Level 2 problems involving one-dimensional and two-dimensional arrays and logical problem solving.
 
-• **18-Dec-2025 (Thursday):**  
-Practiced Java Methods including built-in functions and string handling, and organized code using a branch-based Git workflow.
 
-• **20-Dec-2025 (Saturday):**  
-Installed and set up Notepad++, Eclipse IDE, and JDK, and revised the basics of Java.
 
-• **22-Dec-2025 (Monday):**  
-Studied Object-Oriented Programming concepts including Java classes and objects.
-
-• **23-Dec-2025 (Tuesday):**  
-Learned Java constructors, instance vs class variables, access modifiers, and completed array practice submissions.
-
-• **08-Jan-2026 (Thursday):**  
-Practiced Git workflow basics including feature branches, merges, releases, hotfixes, tagging, and pushing branches to GitHub.
-
-• **09-Jan-2026 (Friday):**  
-Studied this, static, final keywords and instanceof operator, and completed Level 1 lab practice.
-
-• **10-Jan-2026 (Saturday):**  
-Learned Object-Oriented Design Principles including Class Diagrams, Object Diagrams, and Sequence Diagrams.
-
-• **12-Jan-2026 (Monday):**  
-Studied Inheritance including single-level, multilevel, and hierarchical inheritance, method overriding, constructor inheritance, and polymorphism.
-
-• **13-Jan-2026 (Tuesday):**  
-Learned Encapsulation, Polymorphism, Interfaces, and Abstract Classes.
-
-• **14-Jan-2026 (Wednesday):**  
-Submitted Data Structures work on Linked Lists including Single, Double, and Circular Linked Lists.
